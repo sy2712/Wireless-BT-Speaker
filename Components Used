@@ -1,12 +1,52 @@
 1. MDF Board
+
+  Mdf Board was used to make the outer body of the speaker. I choose this board as Mdf Board gives good sound quality as compared to the other wooden boards.
+  
 2. Acrylic
+
+  Acrylic was used to make the upper body. You can choose any material for the body as per your need. 
+  
 3. Led's
+
+  I have used multi-color Led Strip for the party time and normal day-light strip for the working hours.
+  
 4. 15Watt Speaker
+
+  15 Watt Speakers were supported by my ic and also they have pretty  decent bass.
+  
 5. 12 volt power supply
-6. Super Glue/Fevicol
+
+  12 volt Power supply is used to pass the power to whole speaker. The Speaker's used 12v power along with both the types of lights and the audio receiver needs a 
+  5 volt power so, for the audio receiver I have used the MOSFET which converts my 12 volt of power to 5 volt so that my audio receiver doesn't get burned.
+
+6. Super Glue/Fevicol 
+
+  For holding all the mdf board and arcylic with each other, super glue is used.
+  
 7. Bluetooth all in one audio receiver
+
+  This all in one audio receiver has USB port, Audio cable, Bluetooth mode, FM  mode and SD card slot built in it.
+  
 8. IC-CA3110
+
+  This ic is used for controlling the sound in the speakers.
+  
 9. Arduino-Nano
+
+  Arduino Nano is used for making the audio visualiser lights which will have one speaker and will be synced to the lights.
+  
 10. Led Strip- W8121or W8121b
+
+  This LED strips are used along with Arduino Nano for the Music Visualiser. 
+  
 11. Ki-Cad
+  
+  It is used for designing the PCB for the variac dials.
+  
 12. Carpentary Tools
+
+It's a basic tools for cutting the board and acrylic.
+
+13. 12 to 5 volt MOSFET
+
+  Mosfet for the Arduino Nano and All in one audio receiver as they require low power suplly.
